@@ -2,8 +2,8 @@ class Question {
   String questionText;
   bool questionAnswer;
 
-  Question({
+  Question(
     this.questionText,
     this.questionAnswer,
-  });
+  );
 }
